@@ -11,12 +11,12 @@ const CoverPage = () => {
         <div className="logo-hero-info">
           <span className="hero-years">2023</span>
           <h1 className="hero-info">
-            ENCONTRÁ <br />
+            EN JM SHOES ENCONTRÁS <br />
             LAS MEJORES ZAPATILLAS
           </h1>
-          <p className="hero-description">El arte de sumar kilometros</p>
+          <p className="hero-description">Nos esforzamos por brindar una experiencia de compra agradable y sin complicaciones.</p>
           <p className="hero-description">
-            Zapatillas deportivas, urbanas y mas.
+             Amplia variedad de calzado deportivo y casual para todas las edades y gustos.
           </p>
           <a href="#products-container" className="button">
             Explorar
