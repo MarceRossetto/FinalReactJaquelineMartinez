@@ -2,9 +2,9 @@
 Ecommerce ficticio de zapatillas deportivas, urbanas y mas.
 Proyecto desarrollado para el curso de React de Coderhouse.
 
-[![image cover](/public/banner-ecommerce.png)]
+![image cover](/public/banner-ecommerce.png)
 
-## :nut_and_bolt: Tecnologias
+## Tecnologias
 La aplicación fue construida usando las siguientes tecnologias:
 
 * [React](https://reactjs.org/) \
@@ -22,7 +22,7 @@ Es una pequeña librería que te permite añadir íconos (desde distintas librer
 * [React-Responsive-Carousel](http://react-responsive-carousel.js.org/) v"^3.2.23"\
 Componente de carrusel potente, ligero y totalmente personalizable para aplicaciones React.
 
-## :rocket: Instalación
+## Instalación
 Para instalar este proyecto en un entorno local (su computador) abra la `terminal` de comandos y siga estos pasos:
 **1. Clonar el repositorio** \
 Para este paso es necesario tener instalado [Git](https://git-scm.com/).
@@ -54,5 +54,5 @@ npm run start
 ```
 Ahora la aplicación deberia de estar en [http://localhost:3000](http://localhost:3000) en su navegador.
 
-## :wave: Contacto
+## Contacto
 Jaqueline Martinez.
