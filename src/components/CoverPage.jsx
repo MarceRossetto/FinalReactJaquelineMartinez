@@ -11,12 +11,15 @@ const CoverPage = () => {
         <div className="logo-hero-info">
           <span className="hero-years">2023</span>
           <h1 className="hero-info">
-            EN JM SHOES ENCONTRÁS <br />
-            LAS MEJORES ZAPATILLAS
+            EN JM SHOES ENCONTRÁS LAS MEJORES ZAPATILLAS:
+            
           </h1>
-          <p className="hero-description">Nos esforzamos por brindar una experiencia de compra agradable y sin complicaciones.</p>
+          <p className="hero-description">Amplia variedad de calzado deportivo y casual para todas las edades y gustos.</p>
           <p className="hero-description">
-             Amplia variedad de calzado deportivo y casual para todas las edades y gustos.
+             Nuestra colección incluye zapatillas de marcas reconocidas y de alta calidad, diseñadas para brindar comodidad, soporte y estilo. <br />
+             Ya sea que estés buscando zapatillas para correr, entrenar en el gimnasio, caminar por la ciudad o simplemente relajarte en casa, tenemos algo para ti. <br />
+             Nos esforzamos por brindar una experiencia de compra agradable y sin complicaciones.
+             
           </p>
           <a href="#products-container" className="button">
             Explorar

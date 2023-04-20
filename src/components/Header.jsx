@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/img/logo.svg";
+import logo from "../assets/img/logo-img-main.png";
 import Cart from "./Cart";
 import { FaAlignJustify, FaWindowClose } from "react-icons/fa";
 import "../styles/Header.scss";
