@@ -23,7 +23,8 @@ Es una pequeña librería que te permite añadir íconos (desde distintas librer
 Componente de carrusel potente, ligero y totalmente personalizable para aplicaciones React.
 
 ## Instalación
-Para instalar este proyecto en un entorno local (su computador) abra la `terminal` de comandos y siga estos pasos:
+Para instalar este proyecto en un entorno local, abra la `terminal` de comandos y siga estos pasos:
+
 **1. Clonar el repositorio** \
 Para este paso es necesario tener instalado [Git](https://git-scm.com/).
 ``` shell
@@ -42,17 +43,12 @@ este último comando creará la carpeta `node_modules`, el cual contiene todas l
 
 **3. Ejecutar la aplicación**
 
-> :warning: **IMPORTANTE** :warning: \
-> La aplicación va a requerir de un archivo **.env** en el que se encuentren las variables de entorno, como por ejemplo las credenciales para **firebase**.
-
-Voy a dejar un archivo llamado `.env.example`; Entonces bastaria con renombrarlo o copiar su contenido y ponerlo en un archivo llamado `.env` que debe estar en la **carpeta raiz del proyecto**.
-
 Ahora si ya estamos listos para ejecutar la aplicación con:
 
 ``` shell
 npm run start
 ```
-Ahora la aplicación deberia de estar en [http://localhost:3000](http://localhost:3000) en su navegador.
+Ahora ingresa en [http://localhost:3000](http://localhost:3000) desde su navegador para poder visualizar la pagina.
 
 ## Contacto
 Jaqueline Martinez.
